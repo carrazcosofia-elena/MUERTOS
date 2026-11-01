@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fffeff;
+    padding: 10px 20px;
+}
+
+.logo-pequeno {
+    width: 50px;
+    height: auto;
+    display: block;
+}
+
+.logo-cabecera {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-bottom: 15px;
+}
+
+main {
+    display: flex;
+    gap: 20px;
+}
+
+.aside {
+    width: 25%;
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+section {
+    width: 100%;
+    background-color: #fadebf;
+    padding: 15px;
+}
